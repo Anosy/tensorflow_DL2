@@ -56,13 +56,13 @@ epoch 2800, loss = 0.020722856745123863<br>
 epoch 2900, loss = 0.014302815310657024<br>
 epoch 3000, test accuracy = 0.9786999821662903<br>
 **Graph**<br>
-![](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/two_layer_mnist.png)<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/two_layer_mnist.png)<br>
 **Loss**<br>
-![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/accuracy.png)<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/cross_entropy.png)<br>
 **Acc**<br>
-![](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/cross_entropy.png)<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/accuracy.png)<br>
 **weight**<br>
-![](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/weight.png)<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/weight.png)<br>
 
 
 
