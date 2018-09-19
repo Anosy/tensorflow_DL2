@@ -26,8 +26,8 @@ with tf.name_scope('input'):
     y_ = tf.placeholder(tf.float32, [None, n_output], name='y-input')
 
 layer1_active_output = tf.nn.relu(tf.matmul(x, w1) + b1)
-layer1_output = tf.nn.dropout(layer1_active_output, keep_prob)
-layer2_output = tf.matmul(layer1_output, w2) + b2
+layer1_dropout = tf.nn.dropout(layer1_active_output, keep_prob)
+layer2_output = tf.matmul(layer1_dropout, w2) + b2
 layer2_active_output = tf.nn.softmax(layer2_output)
 
 with tf.name_scope('Loss'):
