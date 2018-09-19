@@ -3,7 +3,7 @@
 ### 原理：
   在神经网络中，随着神经网络的深入，越到后面的层，其提取的信息就越是高阶的信息。所以，如果我希望提取到更加高级的信息就要可以使用更加深层的网络结构。如果有很多的标注数据的情况下，可以使用神经网络，但是如果没有很多的标注数据怎么办？这时候就可以考虑使用自编码器。<br>
   自编码器，顾名思义就是可以使用自己的高阶特征来编码自己。<br>
-  ![自编码原理图](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/AutoEncoder_principle.jpg)<br
+  ![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/AutoEncoder_principle.jpg)<br
   从上图可以看出，自编码器就是由编码器和解码器构成的，而且输入和输出是一样的。<br>
   目前自编码器的应用主要有两个方面，第一是数据去噪，第二是为进行可视化而降维。配合适当的维度和稀疏约束，自编码器可以学习到比PCA等技术更有意思的数据投影。<br>
 
@@ -58,7 +58,7 @@ epoch 3000, test accuracy = 0.9786999821662903<br>
 **Graph**<br>
 ![](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/two_layer_mnist.png)<br>
 **Loss**<br>
-![](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/accuracy.png)<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/AutoEncoder_MLP/result_picture/accuracy.png)<br>
 **Acc**<br>
 ![](https://github.com/Anosy/tensorflow_DL2/tree/master/AutoEncoder_MLP/result_picture/cross_entropy.png)<br>
 **weight**<br>
