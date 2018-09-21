@@ -33,15 +33,15 @@ epoch  2000, training loss=  0.0544735<br>
 **Loss**<br>
 ![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/sample_loss.png)<br>
 **Image**<br>
-Input：
+Input：<br>
 ![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_input.png)<br>
-Conv1:
+Conv1:<br>
 ![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_conv1.png)<br>
-Relu1:
+Relu1:<br>
 ![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_relu1.png)<br>
-Conv2:
+Conv2:<br>
 ![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_conv2.png)<br>
-Relu2:
+Relu2:<br>
 ![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_relu2.png)<br>
 
 ## 第二部分：使用CNN来为CIFAR-10数据来做分类
