@@ -27,13 +27,22 @@ epoch  2000, training accuracy=  0.98<br>
 epoch  2000, training loss=  0.0544735<br>
 ### 结果图：
 **Graph**<br>
-![]()<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/sample_graph.png)<br>
 **Accuracy**<br>
-![]()<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_accuracy.png)<br>
 **Loss**<br>
-![]()<br>
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/sample_loss.png)<br>
 **Image**<br>
-![]()<br>
+Input：
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_input.png)<br>
+Conv1:
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_conv1.png)<br>
+Relu1:
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_relu1.png)<br>
+Conv2:
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_conv2.png)<br>
+Relu2:
+![](https://github.com/Anosy/tensorflow_DL2/blob/master/CNN/result_picture/simple_relu2.png)<br>
 
 ## 第二部分：使用CNN来为CIFAR-10数据来做分类
 ### 网络框架：
