@@ -2,7 +2,7 @@
 ## 实验环境：GeForce GTX 1080
 ## AlexNET
 ### 网络结构
-![Alex Net]()
+![Alex Net](https://github.com/Anosy/tensorflow_DL2/blob/master/Classical_CNN/result_picture/AlexNet.jpg)
 ### 运行结果：
 **每层输出的tensor的shape**<br>
 Variable  [32, 224, 224, 3]<br>
@@ -44,7 +44,7 @@ softmax  [32, 1000]<br>
 
 ## VGGNet-16
 ### 网络结构
-![VGGNet-16]()
+![VGGNet-16](https://github.com/Anosy/tensorflow_DL2/blob/master/Classical_CNN/result_picture/VGG-16.png)
 ### 运行结果：
 **每层输出的tensor的shape**<br>
 poo11  [32, 112, 112, 64]<br>
@@ -84,7 +84,7 @@ softmax  [32, 1000]<br>
 
 ## Inception-V3
 ### 网络结构
-![Inception-V3]()
+![Inception-V3](https://github.com/Anosy/tensorflow_DL2/blob/master/Classical_CNN/result_picture/inception-v3.png)
 ### 运行结果：
 **每层输出的tensor的shape**<br>
 InceptionV3/InceptionV3/MaxPool_5a_3x3/MaxPool  [32, 35, 35, 192]<br>
@@ -118,7 +118,7 @@ InceptionV3/Logits/SpatialSqueeze  [32, 1000]<br>
 
 ## RestNet-V2
 ### 网络结构
-![RestNet-V2]()
+![RestNet-V2](https://github.com/Anosy/tensorflow_DL2/blob/master/Classical_CNN/result_picture/RestNet-V2.png)
 ### 运行结果：
 **运行的时间**<br>
 2018-09-23 15:44:47.156761: step 0, duration = 0.236<br>
