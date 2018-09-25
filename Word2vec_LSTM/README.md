@@ -58,7 +58,7 @@ nearest to seven: eight, six, five, four, nine, three, zero, thibetanus,<br>
 
 ### 结果分析：
 从最终的结果可以看出，在迭代过程后得到的结果不错！<br>
-![tsne]()
+![tsne](https://github.com/Anosy/tensorflow_DL2/blob/master/Word2vec_LSTM/tsne.png)<br>
 
 ## LSTM, 具体代码见：tensorflow_Bidirectional_LSTM_Classifier.py
 
